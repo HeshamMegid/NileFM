@@ -11,45 +11,44 @@
 		545DACCB16021B360066EFBB /* GLKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 545DACCA16021B360066EFBB /* GLKit.framework */; };
 		545DACCD16021B420066EFBB /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 545DACCC16021B420066EFBB /* QuartzCore.framework */; };
 		54A9001D163DB71200B9CDA8 /* CoreImage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 54A9001C163DB71100B9CDA8 /* CoreImage.framework */; };
-		54CC3F6A16E35833003B1503 /* background-568.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CC3F4F16E35833003B1503 /* background-568.png */; };
-		54CC3F6B16E35833003B1503 /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CC3F5016E35833003B1503 /* background.png */; };
-		54CC3F6C16E35833003B1503 /* background@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CC3F5116E35833003B1503 /* background@2x.png */; };
-		54CC3F6D16E35833003B1503 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CC3F5316E35833003B1503 /* Default-568h@2x.png */; };
-		54CC3F6E16E35833003B1503 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CC3F5416E35833003B1503 /* Default.png */; };
-		54CC3F6F16E35833003B1503 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CC3F5516E35833003B1503 /* Default@2x.png */; };
-		54CC3F7016E35833003B1503 /* dial-knob-bkg.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CC3F5616E35833003B1503 /* dial-knob-bkg.png */; };
-		54CC3F7116E35833003B1503 /* dial-knob-bkg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CC3F5716E35833003B1503 /* dial-knob-bkg@2x.png */; };
-		54CC3F7216E35833003B1503 /* dial-knob-closed.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CC3F5816E35833003B1503 /* dial-knob-closed.png */; };
-		54CC3F7316E35833003B1503 /* dial-knob-closed@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CC3F5916E35833003B1503 /* dial-knob-closed@2x.png */; };
-		54CC3F7416E35833003B1503 /* dial-knob-rotator.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CC3F5A16E35833003B1503 /* dial-knob-rotator.png */; };
-		54CC3F7516E35833003B1503 /* dial-knob-rotator@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CC3F5B16E35833003B1503 /* dial-knob-rotator@2x.png */; };
-		54CC3F7616E35833003B1503 /* dial-knob-shadow.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CC3F5C16E35833003B1503 /* dial-knob-shadow.png */; };
-		54CC3F7716E35833003B1503 /* dial-knob-shadow@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CC3F5D16E35833003B1503 /* dial-knob-shadow@2x.png */; };
-		54CC3F7816E35833003B1503 /* dial-knob.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CC3F5E16E35833003B1503 /* dial-knob.png */; };
-		54CC3F7916E35833003B1503 /* dial-knob@2x copy.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CC3F5F16E35833003B1503 /* dial-knob@2x copy.png */; };
-		54CC3F7A16E35833003B1503 /* dial-knob@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CC3F6016E35833003B1503 /* dial-knob@2x.png */; };
-		54CC3F7B16E35833003B1503 /* Icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CC3F6216E35833003B1503 /* Icon-72.png */; };
-		54CC3F7C16E35833003B1503 /* Icon-Small-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CC3F6316E35833003B1503 /* Icon-Small-50.png */; };
-		54CC3F7D16E35833003B1503 /* Icon-Small.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CC3F6416E35833003B1503 /* Icon-Small.png */; };
-		54CC3F7E16E35833003B1503 /* Icon-Small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CC3F6516E35833003B1503 /* Icon-Small@2x.png */; };
-		54CC3F7F16E35833003B1503 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CC3F6616E35833003B1503 /* Icon.png */; };
-		54CC3F8016E35833003B1503 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CC3F6716E35833003B1503 /* Icon@2x.png */; };
-		54CC3F8116E35833003B1503 /* power.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CC3F6816E35833003B1503 /* power.png */; };
-		54CC3F8216E35833003B1503 /* power@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CC3F6916E35833003B1503 /* power@2x.png */; };
-		54CC3F8D16E358F2003B1503 /* OLGhostAlertView.m in Sources */ = {isa = PBXBuildFile; fileRef = 54CC3F8616E358F2003B1503 /* OLGhostAlertView.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
-		54CC3F8E16E358F2003B1503 /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 54CC3F8916E358F2003B1503 /* Reachability.m */; };
-		54CC3F8F16E358F2003B1503 /* RNBlurModalView.m in Sources */ = {isa = PBXBuildFile; fileRef = 54CC3F8C16E358F2003B1503 /* RNBlurModalView.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
-		54CC3F9316E35A16003B1503 /* MHRotaryKnob.m in Sources */ = {isa = PBXBuildFile; fileRef = 54CC3F9216E35A16003B1503 /* MHRotaryKnob.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		54CCD02816E362C700B4F1D8 /* Accelerate.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 54CCD02716E362C700B4F1D8 /* Accelerate.framework */; };
 		54CCD02A16E362E700B4F1D8 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 54CCD02916E362E700B4F1D8 /* SystemConfiguration.framework */; };
+		54CCD02F16E3799000B4F1D8 /* MainViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 54CCD02D16E3799000B4F1D8 /* MainViewController.xib */; };
+		54CCD03D16E379A200B4F1D8 /* MHRotaryKnob.m in Sources */ = {isa = PBXBuildFile; fileRef = 54CCD03316E379A200B4F1D8 /* MHRotaryKnob.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		54CCD03E16E379A200B4F1D8 /* OLGhostAlertView.m in Sources */ = {isa = PBXBuildFile; fileRef = 54CCD03616E379A200B4F1D8 /* OLGhostAlertView.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		54CCD03F16E379A200B4F1D8 /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 54CCD03916E379A200B4F1D8 /* Reachability.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		54CCD04016E379A200B4F1D8 /* RNBlurModalView.m in Sources */ = {isa = PBXBuildFile; fileRef = 54CCD03C16E379A200B4F1D8 /* RNBlurModalView.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		54CCD05D16E379AC00B4F1D8 /* background-568.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CCD04216E379AC00B4F1D8 /* background-568.png */; };
+		54CCD05E16E379AC00B4F1D8 /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CCD04316E379AC00B4F1D8 /* background.png */; };
+		54CCD05F16E379AC00B4F1D8 /* background@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CCD04416E379AC00B4F1D8 /* background@2x.png */; };
+		54CCD06016E379AC00B4F1D8 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CCD04616E379AC00B4F1D8 /* Default-568h@2x.png */; };
+		54CCD06116E379AC00B4F1D8 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CCD04716E379AC00B4F1D8 /* Default.png */; };
+		54CCD06216E379AC00B4F1D8 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CCD04816E379AC00B4F1D8 /* Default@2x.png */; };
+		54CCD06316E379AC00B4F1D8 /* dial-knob-bkg.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CCD04916E379AC00B4F1D8 /* dial-knob-bkg.png */; };
+		54CCD06416E379AC00B4F1D8 /* dial-knob-bkg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CCD04A16E379AC00B4F1D8 /* dial-knob-bkg@2x.png */; };
+		54CCD06516E379AC00B4F1D8 /* dial-knob-closed.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CCD04B16E379AC00B4F1D8 /* dial-knob-closed.png */; };
+		54CCD06616E379AC00B4F1D8 /* dial-knob-closed@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CCD04C16E379AC00B4F1D8 /* dial-knob-closed@2x.png */; };
+		54CCD06716E379AC00B4F1D8 /* dial-knob-rotator.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CCD04D16E379AC00B4F1D8 /* dial-knob-rotator.png */; };
+		54CCD06816E379AC00B4F1D8 /* dial-knob-rotator@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CCD04E16E379AC00B4F1D8 /* dial-knob-rotator@2x.png */; };
+		54CCD06916E379AC00B4F1D8 /* dial-knob-shadow.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CCD04F16E379AC00B4F1D8 /* dial-knob-shadow.png */; };
+		54CCD06A16E379AC00B4F1D8 /* dial-knob-shadow@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CCD05016E379AC00B4F1D8 /* dial-knob-shadow@2x.png */; };
+		54CCD06B16E379AC00B4F1D8 /* dial-knob.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CCD05116E379AC00B4F1D8 /* dial-knob.png */; };
+		54CCD06C16E379AC00B4F1D8 /* dial-knob@2x copy.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CCD05216E379AC00B4F1D8 /* dial-knob@2x copy.png */; };
+		54CCD06D16E379AC00B4F1D8 /* dial-knob@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CCD05316E379AC00B4F1D8 /* dial-knob@2x.png */; };
+		54CCD06E16E379AC00B4F1D8 /* Icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CCD05516E379AC00B4F1D8 /* Icon-72.png */; };
+		54CCD06F16E379AC00B4F1D8 /* Icon-Small-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CCD05616E379AC00B4F1D8 /* Icon-Small-50.png */; };
+		54CCD07016E379AC00B4F1D8 /* Icon-Small.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CCD05716E379AC00B4F1D8 /* Icon-Small.png */; };
+		54CCD07116E379AC00B4F1D8 /* Icon-Small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CCD05816E379AC00B4F1D8 /* Icon-Small@2x.png */; };
+		54CCD07216E379AC00B4F1D8 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CCD05916E379AC00B4F1D8 /* Icon.png */; };
+		54CCD07316E379AC00B4F1D8 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CCD05A16E379AC00B4F1D8 /* Icon@2x.png */; };
+		54CCD07416E379AC00B4F1D8 /* power.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CCD05B16E379AC00B4F1D8 /* power.png */; };
+		54CCD07516E379AC00B4F1D8 /* power@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CCD05C16E379AC00B4F1D8 /* power@2x.png */; };
 		54DB98301557E21A000119C7 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 54DB982F1557E21A000119C7 /* UIKit.framework */; };
 		54DB98321557E21A000119C7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 54DB98311557E21A000119C7 /* Foundation.framework */; };
 		54DB98341557E21A000119C7 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 54DB98331557E21A000119C7 /* CoreGraphics.framework */; };
-		54DB983A1557E21B000119C7 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 54DB98381557E21B000119C7 /* InfoPlist.strings */; };
 		54DB983C1557E21B000119C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 54DB983B1557E21B000119C7 /* main.m */; };
 		54DB98401557E21B000119C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 54DB983F1557E21B000119C7 /* AppDelegate.m */; };
 		54DB98431557E21B000119C7 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 54DB98421557E21B000119C7 /* MainViewController.m */; };
-		54DB98461557E21B000119C7 /* MainViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 54DB98441557E21B000119C7 /* MainViewController.xib */; };
 		54DB984D1557E258000119C7 /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 54DB984C1557E258000119C7 /* MediaPlayer.framework */; };
 		54DB984F1557E9FE000119C7 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 54DB984E1557E9FE000119C7 /* AVFoundation.framework */; };
 /* End PBXBuildFile section */
@@ -59,54 +58,53 @@
 		545DACCA16021B360066EFBB /* GLKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLKit.framework; path = System/Library/Frameworks/GLKit.framework; sourceTree = SDKROOT; };
 		545DACCC16021B420066EFBB /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		54A9001C163DB71100B9CDA8 /* CoreImage.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreImage.framework; path = System/Library/Frameworks/CoreImage.framework; sourceTree = SDKROOT; };
-		54CC3F4F16E35833003B1503 /* background-568.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "background-568.png"; path = "images/background-568.png"; sourceTree = "<group>"; };
-		54CC3F5016E35833003B1503 /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = background.png; path = images/background.png; sourceTree = "<group>"; };
-		54CC3F5116E35833003B1503 /* background@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "background@2x.png"; path = "images/background@2x.png"; sourceTree = "<group>"; };
-		54CC3F5316E35833003B1503 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
-		54CC3F5416E35833003B1503 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
-		54CC3F5516E35833003B1503 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
-		54CC3F5616E35833003B1503 /* dial-knob-bkg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "dial-knob-bkg.png"; path = "images/dial-knob-bkg.png"; sourceTree = "<group>"; };
-		54CC3F5716E35833003B1503 /* dial-knob-bkg@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "dial-knob-bkg@2x.png"; path = "images/dial-knob-bkg@2x.png"; sourceTree = "<group>"; };
-		54CC3F5816E35833003B1503 /* dial-knob-closed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "dial-knob-closed.png"; path = "images/dial-knob-closed.png"; sourceTree = "<group>"; };
-		54CC3F5916E35833003B1503 /* dial-knob-closed@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "dial-knob-closed@2x.png"; path = "images/dial-knob-closed@2x.png"; sourceTree = "<group>"; };
-		54CC3F5A16E35833003B1503 /* dial-knob-rotator.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "dial-knob-rotator.png"; path = "images/dial-knob-rotator.png"; sourceTree = "<group>"; };
-		54CC3F5B16E35833003B1503 /* dial-knob-rotator@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "dial-knob-rotator@2x.png"; path = "images/dial-knob-rotator@2x.png"; sourceTree = "<group>"; };
-		54CC3F5C16E35833003B1503 /* dial-knob-shadow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "dial-knob-shadow.png"; path = "images/dial-knob-shadow.png"; sourceTree = "<group>"; };
-		54CC3F5D16E35833003B1503 /* dial-knob-shadow@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "dial-knob-shadow@2x.png"; path = "images/dial-knob-shadow@2x.png"; sourceTree = "<group>"; };
-		54CC3F5E16E35833003B1503 /* dial-knob.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "dial-knob.png"; path = "images/dial-knob.png"; sourceTree = "<group>"; };
-		54CC3F5F16E35833003B1503 /* dial-knob@2x copy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "dial-knob@2x copy.png"; path = "images/dial-knob@2x copy.png"; sourceTree = "<group>"; };
-		54CC3F6016E35833003B1503 /* dial-knob@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "dial-knob@2x.png"; path = "images/dial-knob@2x.png"; sourceTree = "<group>"; };
-		54CC3F6216E35833003B1503 /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72.png"; sourceTree = "<group>"; };
-		54CC3F6316E35833003B1503 /* Icon-Small-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small-50.png"; sourceTree = "<group>"; };
-		54CC3F6416E35833003B1503 /* Icon-Small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small.png"; sourceTree = "<group>"; };
-		54CC3F6516E35833003B1503 /* Icon-Small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small@2x.png"; sourceTree = "<group>"; };
-		54CC3F6616E35833003B1503 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
-		54CC3F6716E35833003B1503 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
-		54CC3F6816E35833003B1503 /* power.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = power.png; path = images/power.png; sourceTree = "<group>"; };
-		54CC3F6916E35833003B1503 /* power@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "power@2x.png"; path = "images/power@2x.png"; sourceTree = "<group>"; };
-		54CC3F8516E358F2003B1503 /* OLGhostAlertView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OLGhostAlertView.h; sourceTree = "<group>"; };
-		54CC3F8616E358F2003B1503 /* OLGhostAlertView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OLGhostAlertView.m; sourceTree = "<group>"; };
-		54CC3F8816E358F2003B1503 /* Reachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Reachability.h; sourceTree = "<group>"; };
-		54CC3F8916E358F2003B1503 /* Reachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Reachability.m; sourceTree = "<group>"; };
-		54CC3F8B16E358F2003B1503 /* RNBlurModalView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RNBlurModalView.h; sourceTree = "<group>"; };
-		54CC3F8C16E358F2003B1503 /* RNBlurModalView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RNBlurModalView.m; sourceTree = "<group>"; };
-		54CC3F9116E35A16003B1503 /* MHRotaryKnob.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MHRotaryKnob.h; sourceTree = "<group>"; };
-		54CC3F9216E35A16003B1503 /* MHRotaryKnob.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MHRotaryKnob.m; sourceTree = "<group>"; };
 		54CCD02716E362C700B4F1D8 /* Accelerate.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accelerate.framework; path = System/Library/Frameworks/Accelerate.framework; sourceTree = SDKROOT; };
 		54CCD02916E362E700B4F1D8 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		54CCD02B16E3793C00B4F1D8 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		54CCD02C16E3798A00B4F1D8 /* MainViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
+		54CCD02E16E3799000B4F1D8 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainViewController.xib; sourceTree = "<group>"; };
+		54CCD03216E379A200B4F1D8 /* MHRotaryKnob.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MHRotaryKnob.h; sourceTree = "<group>"; };
+		54CCD03316E379A200B4F1D8 /* MHRotaryKnob.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MHRotaryKnob.m; sourceTree = "<group>"; };
+		54CCD03516E379A200B4F1D8 /* OLGhostAlertView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OLGhostAlertView.h; sourceTree = "<group>"; };
+		54CCD03616E379A200B4F1D8 /* OLGhostAlertView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OLGhostAlertView.m; sourceTree = "<group>"; };
+		54CCD03816E379A200B4F1D8 /* Reachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Reachability.h; sourceTree = "<group>"; };
+		54CCD03916E379A200B4F1D8 /* Reachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Reachability.m; sourceTree = "<group>"; };
+		54CCD03B16E379A200B4F1D8 /* RNBlurModalView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RNBlurModalView.h; sourceTree = "<group>"; };
+		54CCD03C16E379A200B4F1D8 /* RNBlurModalView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RNBlurModalView.m; sourceTree = "<group>"; };
+		54CCD04216E379AC00B4F1D8 /* background-568.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "background-568.png"; sourceTree = "<group>"; };
+		54CCD04316E379AC00B4F1D8 /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
+		54CCD04416E379AC00B4F1D8 /* background@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "background@2x.png"; sourceTree = "<group>"; };
+		54CCD04616E379AC00B4F1D8 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		54CCD04716E379AC00B4F1D8 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		54CCD04816E379AC00B4F1D8 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		54CCD04916E379AC00B4F1D8 /* dial-knob-bkg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dial-knob-bkg.png"; sourceTree = "<group>"; };
+		54CCD04A16E379AC00B4F1D8 /* dial-knob-bkg@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dial-knob-bkg@2x.png"; sourceTree = "<group>"; };
+		54CCD04B16E379AC00B4F1D8 /* dial-knob-closed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dial-knob-closed.png"; sourceTree = "<group>"; };
+		54CCD04C16E379AC00B4F1D8 /* dial-knob-closed@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dial-knob-closed@2x.png"; sourceTree = "<group>"; };
+		54CCD04D16E379AC00B4F1D8 /* dial-knob-rotator.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dial-knob-rotator.png"; sourceTree = "<group>"; };
+		54CCD04E16E379AC00B4F1D8 /* dial-knob-rotator@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dial-knob-rotator@2x.png"; sourceTree = "<group>"; };
+		54CCD04F16E379AC00B4F1D8 /* dial-knob-shadow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dial-knob-shadow.png"; sourceTree = "<group>"; };
+		54CCD05016E379AC00B4F1D8 /* dial-knob-shadow@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dial-knob-shadow@2x.png"; sourceTree = "<group>"; };
+		54CCD05116E379AC00B4F1D8 /* dial-knob.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dial-knob.png"; sourceTree = "<group>"; };
+		54CCD05216E379AC00B4F1D8 /* dial-knob@2x copy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dial-knob@2x copy.png"; sourceTree = "<group>"; };
+		54CCD05316E379AC00B4F1D8 /* dial-knob@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dial-knob@2x.png"; sourceTree = "<group>"; };
+		54CCD05516E379AC00B4F1D8 /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72.png"; sourceTree = "<group>"; };
+		54CCD05616E379AC00B4F1D8 /* Icon-Small-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small-50.png"; sourceTree = "<group>"; };
+		54CCD05716E379AC00B4F1D8 /* Icon-Small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small.png"; sourceTree = "<group>"; };
+		54CCD05816E379AC00B4F1D8 /* Icon-Small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small@2x.png"; sourceTree = "<group>"; };
+		54CCD05916E379AC00B4F1D8 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		54CCD05A16E379AC00B4F1D8 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
+		54CCD05B16E379AC00B4F1D8 /* power.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = power.png; sourceTree = "<group>"; };
+		54CCD05C16E379AC00B4F1D8 /* power@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "power@2x.png"; sourceTree = "<group>"; };
 		54DB982B1557E21A000119C7 /* NileFM.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NileFM.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		54DB982F1557E21A000119C7 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		54DB98311557E21A000119C7 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		54DB98331557E21A000119C7 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		54DB98371557E21B000119C7 /* NileFM-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "NileFM-Info.plist"; sourceTree = "<group>"; };
-		54DB98391557E21B000119C7 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		54DB983B1557E21B000119C7 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		54DB983D1557E21B000119C7 /* NileFM-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NileFM-Prefix.pch"; sourceTree = "<group>"; };
-		54DB983E1557E21B000119C7 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		54DB98371557E21B000119C7 /* NileFM-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; name = "NileFM-Info.plist"; path = "NileFM/NileFM-Info.plist"; sourceTree = "<group>"; };
+		54DB983B1557E21B000119C7 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = main.m; path = NileFM/main.m; sourceTree = SOURCE_ROOT; };
+		54DB983D1557E21B000119C7 /* NileFM-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "NileFM-Prefix.pch"; path = "NileFM/NileFM-Prefix.pch"; sourceTree = "<group>"; };
 		54DB983F1557E21B000119C7 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		54DB98411557E21B000119C7 /* MainViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
 		54DB98421557E21B000119C7 /* MainViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
-		54DB98451557E21B000119C7 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainViewController.xib; sourceTree = "<group>"; };
 		54DB984C1557E258000119C7 /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
 		54DB984E1557E9FE000119C7 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
@@ -133,94 +131,99 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		54A77523155808720072D3C6 /* Images */ = {
+		54CCD03016E379A200B4F1D8 /* Vendor */ = {
 			isa = PBXGroup;
 			children = (
-				54CC3F5216E35833003B1503 /* Default Images */,
-				54CC3F6116E35833003B1503 /* Icons */,
-				54CC3F4F16E35833003B1503 /* background-568.png */,
-				54CC3F5016E35833003B1503 /* background.png */,
-				54CC3F5116E35833003B1503 /* background@2x.png */,
-				54CC3F5616E35833003B1503 /* dial-knob-bkg.png */,
-				54CC3F5716E35833003B1503 /* dial-knob-bkg@2x.png */,
-				54CC3F5816E35833003B1503 /* dial-knob-closed.png */,
-				54CC3F5916E35833003B1503 /* dial-knob-closed@2x.png */,
-				54CC3F5A16E35833003B1503 /* dial-knob-rotator.png */,
-				54CC3F5B16E35833003B1503 /* dial-knob-rotator@2x.png */,
-				54CC3F5C16E35833003B1503 /* dial-knob-shadow.png */,
-				54CC3F5D16E35833003B1503 /* dial-knob-shadow@2x.png */,
-				54CC3F5E16E35833003B1503 /* dial-knob.png */,
-				54CC3F5F16E35833003B1503 /* dial-knob@2x copy.png */,
-				54CC3F6016E35833003B1503 /* dial-knob@2x.png */,
-				54CC3F6816E35833003B1503 /* power.png */,
-				54CC3F6916E35833003B1503 /* power@2x.png */,
+				54CCD03116E379A200B4F1D8 /* MHRotaryKnob */,
+				54CCD03416E379A200B4F1D8 /* OLGhostAlertView */,
+				54CCD03716E379A200B4F1D8 /* Reachability */,
+				54CCD03A16E379A200B4F1D8 /* RNBlurModalView */,
 			);
-			name = Images;
+			path = Vendor;
 			sourceTree = "<group>";
 		};
-		54CC3F5216E35833003B1503 /* Default Images */ = {
+		54CCD03116E379A200B4F1D8 /* MHRotaryKnob */ = {
 			isa = PBXGroup;
 			children = (
-				54CC3F5316E35833003B1503 /* Default-568h@2x.png */,
-				54CC3F5416E35833003B1503 /* Default.png */,
-				54CC3F5516E35833003B1503 /* Default@2x.png */,
+				54CCD03216E379A200B4F1D8 /* MHRotaryKnob.h */,
+				54CCD03316E379A200B4F1D8 /* MHRotaryKnob.m */,
 			);
-			name = "Default Images";
-			path = "images/Default Images";
+			path = MHRotaryKnob;
 			sourceTree = "<group>";
 		};
-		54CC3F6116E35833003B1503 /* Icons */ = {
+		54CCD03416E379A200B4F1D8 /* OLGhostAlertView */ = {
 			isa = PBXGroup;
 			children = (
-				54CC3F6216E35833003B1503 /* Icon-72.png */,
-				54CC3F6316E35833003B1503 /* Icon-Small-50.png */,
-				54CC3F6416E35833003B1503 /* Icon-Small.png */,
-				54CC3F6516E35833003B1503 /* Icon-Small@2x.png */,
-				54CC3F6616E35833003B1503 /* Icon.png */,
-				54CC3F6716E35833003B1503 /* Icon@2x.png */,
+				54CCD03516E379A200B4F1D8 /* OLGhostAlertView.h */,
+				54CCD03616E379A200B4F1D8 /* OLGhostAlertView.m */,
 			);
-			name = Icons;
-			path = images/Icons;
+			path = OLGhostAlertView;
 			sourceTree = "<group>";
 		};
-		54CC3F8416E358F2003B1503 /* OLGhostAlertView */ = {
+		54CCD03716E379A200B4F1D8 /* Reachability */ = {
 			isa = PBXGroup;
 			children = (
-				54CC3F8516E358F2003B1503 /* OLGhostAlertView.h */,
-				54CC3F8616E358F2003B1503 /* OLGhostAlertView.m */,
+				54CCD03816E379A200B4F1D8 /* Reachability.h */,
+				54CCD03916E379A200B4F1D8 /* Reachability.m */,
 			);
-			name = OLGhostAlertView;
-			path = Vendor/OLGhostAlertView;
+			path = Reachability;
 			sourceTree = "<group>";
 		};
-		54CC3F8716E358F2003B1503 /* Reachability */ = {
+		54CCD03A16E379A200B4F1D8 /* RNBlurModalView */ = {
 			isa = PBXGroup;
 			children = (
-				54CC3F8816E358F2003B1503 /* Reachability.h */,
-				54CC3F8916E358F2003B1503 /* Reachability.m */,
+				54CCD03B16E379A200B4F1D8 /* RNBlurModalView.h */,
+				54CCD03C16E379A200B4F1D8 /* RNBlurModalView.m */,
 			);
-			name = Reachability;
-			path = Vendor/Reachability;
+			path = RNBlurModalView;
 			sourceTree = "<group>";
 		};
-		54CC3F8A16E358F2003B1503 /* RNBlurModalView */ = {
+		54CCD04116E379AC00B4F1D8 /* Images */ = {
 			isa = PBXGroup;
 			children = (
-				54CC3F8B16E358F2003B1503 /* RNBlurModalView.h */,
-				54CC3F8C16E358F2003B1503 /* RNBlurModalView.m */,
+				54CCD04216E379AC00B4F1D8 /* background-568.png */,
+				54CCD04316E379AC00B4F1D8 /* background.png */,
+				54CCD04416E379AC00B4F1D8 /* background@2x.png */,
+				54CCD04516E379AC00B4F1D8 /* Default Images */,
+				54CCD04916E379AC00B4F1D8 /* dial-knob-bkg.png */,
+				54CCD04A16E379AC00B4F1D8 /* dial-knob-bkg@2x.png */,
+				54CCD04B16E379AC00B4F1D8 /* dial-knob-closed.png */,
+				54CCD04C16E379AC00B4F1D8 /* dial-knob-closed@2x.png */,
+				54CCD04D16E379AC00B4F1D8 /* dial-knob-rotator.png */,
+				54CCD04E16E379AC00B4F1D8 /* dial-knob-rotator@2x.png */,
+				54CCD04F16E379AC00B4F1D8 /* dial-knob-shadow.png */,
+				54CCD05016E379AC00B4F1D8 /* dial-knob-shadow@2x.png */,
+				54CCD05116E379AC00B4F1D8 /* dial-knob.png */,
+				54CCD05216E379AC00B4F1D8 /* dial-knob@2x copy.png */,
+				54CCD05316E379AC00B4F1D8 /* dial-knob@2x.png */,
+				54CCD05416E379AC00B4F1D8 /* Icons */,
+				54CCD05B16E379AC00B4F1D8 /* power.png */,
+				54CCD05C16E379AC00B4F1D8 /* power@2x.png */,
 			);
-			name = RNBlurModalView;
-			path = Vendor/RNBlurModalView;
+			path = Images;
 			sourceTree = "<group>";
 		};
-		54CC3F9016E35A16003B1503 /* MHRotaryKnob */ = {
+		54CCD04516E379AC00B4F1D8 /* Default Images */ = {
 			isa = PBXGroup;
 			children = (
-				54CC3F9116E35A16003B1503 /* MHRotaryKnob.h */,
-				54CC3F9216E35A16003B1503 /* MHRotaryKnob.m */,
+				54CCD04616E379AC00B4F1D8 /* Default-568h@2x.png */,
+				54CCD04716E379AC00B4F1D8 /* Default.png */,
+				54CCD04816E379AC00B4F1D8 /* Default@2x.png */,
 			);
-			name = MHRotaryKnob;
-			path = Vendor/MHRotaryKnob;
+			path = "Default Images";
+			sourceTree = "<group>";
+		};
+		54CCD05416E379AC00B4F1D8 /* Icons */ = {
+			isa = PBXGroup;
+			children = (
+				54CCD05516E379AC00B4F1D8 /* Icon-72.png */,
+				54CCD05616E379AC00B4F1D8 /* Icon-Small-50.png */,
+				54CCD05716E379AC00B4F1D8 /* Icon-Small.png */,
+				54CCD05816E379AC00B4F1D8 /* Icon-Small@2x.png */,
+				54CCD05916E379AC00B4F1D8 /* Icon.png */,
+				54CCD05A16E379AC00B4F1D8 /* Icon@2x.png */,
+			);
+			path = Icons;
 			sourceTree = "<group>";
 		};
 		54DB98201557E21A000119C7 = {
@@ -261,13 +264,13 @@
 		54DB98351557E21A000119C7 /* NileFM */ = {
 			isa = PBXGroup;
 			children = (
-				54DB983E1557E21B000119C7 /* AppDelegate.h */,
+				54CCD02B16E3793C00B4F1D8 /* AppDelegate.h */,
 				54DB983F1557E21B000119C7 /* AppDelegate.m */,
-				54DB98411557E21B000119C7 /* MainViewController.h */,
+				54CCD02C16E3798A00B4F1D8 /* MainViewController.h */,
 				54DB98421557E21B000119C7 /* MainViewController.m */,
-				54DB98441557E21B000119C7 /* MainViewController.xib */,
-				54E531A216B93F40005F17A1 /* Vendor */,
-				54A77523155808720072D3C6 /* Images */,
+				54CCD02D16E3799000B4F1D8 /* MainViewController.xib */,
+				54CCD03016E379A200B4F1D8 /* Vendor */,
+				54CCD04116E379AC00B4F1D8 /* Images */,
 				54DB98361557E21A000119C7 /* Supporting Files */,
 			);
 			path = NileFM;
@@ -277,22 +280,10 @@
 			isa = PBXGroup;
 			children = (
 				54DB98371557E21B000119C7 /* NileFM-Info.plist */,
-				54DB98381557E21B000119C7 /* InfoPlist.strings */,
 				54DB983B1557E21B000119C7 /* main.m */,
 				54DB983D1557E21B000119C7 /* NileFM-Prefix.pch */,
 			);
 			name = "Supporting Files";
-			sourceTree = "<group>";
-		};
-		54E531A216B93F40005F17A1 /* Vendor */ = {
-			isa = PBXGroup;
-			children = (
-				54CC3F9016E35A16003B1503 /* MHRotaryKnob */,
-				54CC3F8416E358F2003B1503 /* OLGhostAlertView */,
-				54CC3F8716E358F2003B1503 /* Reachability */,
-				54CC3F8A16E358F2003B1503 /* RNBlurModalView */,
-			);
-			name = Vendor;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -346,33 +337,32 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				54DB983A1557E21B000119C7 /* InfoPlist.strings in Resources */,
-				54DB98461557E21B000119C7 /* MainViewController.xib in Resources */,
-				54CC3F6A16E35833003B1503 /* background-568.png in Resources */,
-				54CC3F6B16E35833003B1503 /* background.png in Resources */,
-				54CC3F6C16E35833003B1503 /* background@2x.png in Resources */,
-				54CC3F6D16E35833003B1503 /* Default-568h@2x.png in Resources */,
-				54CC3F6E16E35833003B1503 /* Default.png in Resources */,
-				54CC3F6F16E35833003B1503 /* Default@2x.png in Resources */,
-				54CC3F7016E35833003B1503 /* dial-knob-bkg.png in Resources */,
-				54CC3F7116E35833003B1503 /* dial-knob-bkg@2x.png in Resources */,
-				54CC3F7216E35833003B1503 /* dial-knob-closed.png in Resources */,
-				54CC3F7316E35833003B1503 /* dial-knob-closed@2x.png in Resources */,
-				54CC3F7416E35833003B1503 /* dial-knob-rotator.png in Resources */,
-				54CC3F7516E35833003B1503 /* dial-knob-rotator@2x.png in Resources */,
-				54CC3F7616E35833003B1503 /* dial-knob-shadow.png in Resources */,
-				54CC3F7716E35833003B1503 /* dial-knob-shadow@2x.png in Resources */,
-				54CC3F7816E35833003B1503 /* dial-knob.png in Resources */,
-				54CC3F7916E35833003B1503 /* dial-knob@2x copy.png in Resources */,
-				54CC3F7A16E35833003B1503 /* dial-knob@2x.png in Resources */,
-				54CC3F7B16E35833003B1503 /* Icon-72.png in Resources */,
-				54CC3F7C16E35833003B1503 /* Icon-Small-50.png in Resources */,
-				54CC3F7D16E35833003B1503 /* Icon-Small.png in Resources */,
-				54CC3F7E16E35833003B1503 /* Icon-Small@2x.png in Resources */,
-				54CC3F7F16E35833003B1503 /* Icon.png in Resources */,
-				54CC3F8016E35833003B1503 /* Icon@2x.png in Resources */,
-				54CC3F8116E35833003B1503 /* power.png in Resources */,
-				54CC3F8216E35833003B1503 /* power@2x.png in Resources */,
+				54CCD02F16E3799000B4F1D8 /* MainViewController.xib in Resources */,
+				54CCD05D16E379AC00B4F1D8 /* background-568.png in Resources */,
+				54CCD05E16E379AC00B4F1D8 /* background.png in Resources */,
+				54CCD05F16E379AC00B4F1D8 /* background@2x.png in Resources */,
+				54CCD06016E379AC00B4F1D8 /* Default-568h@2x.png in Resources */,
+				54CCD06116E379AC00B4F1D8 /* Default.png in Resources */,
+				54CCD06216E379AC00B4F1D8 /* Default@2x.png in Resources */,
+				54CCD06316E379AC00B4F1D8 /* dial-knob-bkg.png in Resources */,
+				54CCD06416E379AC00B4F1D8 /* dial-knob-bkg@2x.png in Resources */,
+				54CCD06516E379AC00B4F1D8 /* dial-knob-closed.png in Resources */,
+				54CCD06616E379AC00B4F1D8 /* dial-knob-closed@2x.png in Resources */,
+				54CCD06716E379AC00B4F1D8 /* dial-knob-rotator.png in Resources */,
+				54CCD06816E379AC00B4F1D8 /* dial-knob-rotator@2x.png in Resources */,
+				54CCD06916E379AC00B4F1D8 /* dial-knob-shadow.png in Resources */,
+				54CCD06A16E379AC00B4F1D8 /* dial-knob-shadow@2x.png in Resources */,
+				54CCD06B16E379AC00B4F1D8 /* dial-knob.png in Resources */,
+				54CCD06C16E379AC00B4F1D8 /* dial-knob@2x copy.png in Resources */,
+				54CCD06D16E379AC00B4F1D8 /* dial-knob@2x.png in Resources */,
+				54CCD06E16E379AC00B4F1D8 /* Icon-72.png in Resources */,
+				54CCD06F16E379AC00B4F1D8 /* Icon-Small-50.png in Resources */,
+				54CCD07016E379AC00B4F1D8 /* Icon-Small.png in Resources */,
+				54CCD07116E379AC00B4F1D8 /* Icon-Small@2x.png in Resources */,
+				54CCD07216E379AC00B4F1D8 /* Icon.png in Resources */,
+				54CCD07316E379AC00B4F1D8 /* Icon@2x.png in Resources */,
+				54CCD07416E379AC00B4F1D8 /* power.png in Resources */,
+				54CCD07516E379AC00B4F1D8 /* power@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -386,28 +376,20 @@
 				54DB983C1557E21B000119C7 /* main.m in Sources */,
 				54DB98401557E21B000119C7 /* AppDelegate.m in Sources */,
 				54DB98431557E21B000119C7 /* MainViewController.m in Sources */,
-				54CC3F8D16E358F2003B1503 /* OLGhostAlertView.m in Sources */,
-				54CC3F8E16E358F2003B1503 /* Reachability.m in Sources */,
-				54CC3F8F16E358F2003B1503 /* RNBlurModalView.m in Sources */,
-				54CC3F9316E35A16003B1503 /* MHRotaryKnob.m in Sources */,
+				54CCD03D16E379A200B4F1D8 /* MHRotaryKnob.m in Sources */,
+				54CCD03E16E379A200B4F1D8 /* OLGhostAlertView.m in Sources */,
+				54CCD03F16E379A200B4F1D8 /* Reachability.m in Sources */,
+				54CCD04016E379A200B4F1D8 /* RNBlurModalView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		54DB98381557E21B000119C7 /* InfoPlist.strings */ = {
+		54CCD02D16E3799000B4F1D8 /* MainViewController.xib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				54DB98391557E21B000119C7 /* en */,
-			);
-			name = InfoPlist.strings;
-			sourceTree = "<group>";
-		};
-		54DB98441557E21B000119C7 /* MainViewController.xib */ = {
-			isa = PBXVariantGroup;
-			children = (
-				54DB98451557E21B000119C7 /* en */,
+				54CCD02E16E3799000B4F1D8 /* en */,
 			);
 			name = MainViewController.xib;
 			sourceTree = "<group>";
