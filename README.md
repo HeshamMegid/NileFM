@@ -7,6 +7,8 @@ Serves as a good tutorial/starting point for streaming apps that uses MPMoviePla
 
 Design by [@SeifSallam](http://twitter.com/SeifSallam).
 
+![NileFM](https://raw.github.com/HeshamMegid/NileFM/master/Screenshot.png)
+
 # License
 
 This code is licensed under the terms of the MIT License. Please see the [LICENSE](LICENSE.md) file for full details.
